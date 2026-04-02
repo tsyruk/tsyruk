@@ -15,7 +15,7 @@ I work on projects that reflect actual help desk and junior sysadmin tasks.
 | Linux | Ubuntu, Nginx, SSH hardening |
 | Backend / Database | Supabase (Auth, RLS, Row-Level Security) |
 | Web | HTML, CSS, JavaScript |
-| Certifications | CompTIA A+ *(in progress)* | Azure 900 (in progress)
+| Certifications | CompTIA A+ *(in progress)*, Azure 900 *(in progress)* |
 
 ---
 
