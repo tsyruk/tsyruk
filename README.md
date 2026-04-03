@@ -45,5 +45,5 @@ QR-based loyalty web app with Supabase authentication, role-based access control
 
 ## Connect
 
-- [Portfolio](https://github.com/tsyruk/portfolio)
+- Portfolio www.margarita-tech.dev
 - Boston area, MA
