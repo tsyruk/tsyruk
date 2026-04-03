@@ -30,9 +30,11 @@ Deployed and secured an Ubuntu VM on Azure: configured SSH key authentication, s
 ### [Active Directory Simulation Lab](https://github.com/tsyruk/ad-helpdesk-lab)
 Simulated common help desk AD tasks using PowerShell (user creation, account lockouts, password resets, group membership, and OU management. Documented with realistic ticket-style scenarios)
 
-### [Nook – Cafe Loyalty App](https://github.com/tsyruk/Nook)
+### [Nook Cafe Loyalty App](https://github.com/tsyruk/Nook)
 QR-based loyalty web app with Supabase authentication, role-based access control, and reward tracking.
 
+### [Active Directory Help Desk Simulation Lab](https://github.com/tsyruk/ad-helpdesk-lab)
+PowerShell-based Active Directory help desk simulation lab that mimics common IT support tasks like user creation, password resets, group management, and account disabling.
 ---
 
 ## Currently focused on
